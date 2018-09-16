@@ -1,8 +1,8 @@
 export default function() {
     return [
-        { title: 'brown bear'},
-        { title: 'the hungry caterpillar'},
-        { title: 'clifford the red dog'},
-        { title: 'polar bear' }  
+        { title: 'Brown Bear', pages: 12},
+        { title: 'The Hungry Caterpillar', pages: 16},
+        { title: 'Clifford the Red Dog', pages: 23},
+        { title: 'Polar Bear', pages:19 }  
     ]
 }
