@@ -7,3 +7,4 @@ export default class BookDetail extends Component {
         );
     }
 }
+
